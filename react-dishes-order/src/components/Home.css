@@ -1,0 +1,21 @@
+.Home {
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.Header {
+    margin: 0;
+}
+
+.Content {
+    padding: 0 15px;
+}
+
+.Content p {
+    margin-bottom: 0.5rem;
+}
+
+.Content-Layout {
+    display: flex;
+}

@@ -1,0 +1,37 @@
+.Menu-block {
+    display: flex;
+}
+
+.Content-box-image {
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+.Content-box-image:hover {
+    transform: scale(0.95);
+}
+
+.Menu-description {
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+}
+
+.Menu-Order {
+    width: 80px;
+    height: 30px;
+    border: 1px solid #dbdbdb;
+    border-radius: 15px;
+    float: right;
+    background-color: #dbdbdb;
+    text-align: center;
+    color: blue;
+}
+
+.Menu-Order:hover {
+    background-color: #dee2e6;
+    cursor: pointer;
+}
