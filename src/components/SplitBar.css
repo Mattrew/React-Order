@@ -1,0 +1,9 @@
+.Split-bar {
+    margin: 15px 0;
+    padding: 0 15px;
+}
+
+.Split-border {
+    height: 1px;
+    background: #dbdbdb;
+}
